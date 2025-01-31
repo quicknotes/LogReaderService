@@ -13,9 +13,9 @@ Service can retrieve logs from "\var\log" directory in reverse chronological ord
 
 ## How to build the service:
 In the source directory, run
-`./mvnw package` to build the service
-`./mvnw test` to run unit-tests
-`./mvnw spring-boot:run` to start the service, service will be started on localhost:8080.
+- `./mvnw package` to build the service
+- `./mvnw test` to run unit-tests
+- `./mvnw spring-boot:run` to start the service, service will be started on localhost:8080.
 
 
 ## How to test the service using curl
